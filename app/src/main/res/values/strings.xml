@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BinarAndroid</string>
+    <string name="show_fragment_dialog">Show Fragment Dialog</string>
+    <string name="hallo_ini_dialog_fragment">Hallo ini dialog fragment</string>
+    <string name="tutup">Tutup</string>
+    <!-- TODO: Remove or change this placeholder text -->
 </resources>
